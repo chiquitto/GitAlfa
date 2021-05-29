@@ -19,3 +19,13 @@ Doutorando em Informática pela UFPR, Mestre em Informática pela UTFPR e Especi
 ## Amanda
 <img src="https://webdev.alfaumuarama.edu.br/arquivos/1617200404g.jpg" width="100">
 Amanda é fundadora do DevOps Bootcamp e Embaixadora DevOps no Brasil. Possui especialização em Gestão de Tecnologia e MBA em Metodologias Ágeis e Práticas DevOps, além de certificados Agile Scrum Foundation e DevOps Foundation, com mais de 18 anos de experiência em TI.
+
+## Mauricio "Maujor" Samy Silva
+<img src="https://webdev.alfaumuarama.edu.br/arquivos/1618591041g.jpg" width="100">
+Maujor, O Dinossauro das CSS, é um dos introdutores das CSS no Brasil.
+
+Criou e mantém o site (https://maujor.com) destinado ao ensino das CSS e dos Padrões Web.
+
+É um ativo frequentador de fóruns, escreve para vários portais brasileiros voltados a desenvolvedores web, é autor de artigos e de trabalhos relacionados às CSS publicados em diversos sites de desenvolvimento web.
+
+Maujor é autor de 17 livros sobre técnicas de desenvolvimento web (https://livrosdomaujor.com.br)
