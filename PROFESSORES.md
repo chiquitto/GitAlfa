@@ -1,7 +1,7 @@
 # PROFESSORES
 
 ## Alisson Chiquitto
-<img src="https://webdev.alfaumuarama.edu.br/arquivos/1576672035g.jpg" width="100">
+<img src="https://webdev.alfaumuarama.edu.br/arquivos/1576068420g.jpg" width="100">
 Mestre em Ciência da Computação pela UEM. Possui especializações em Docência na Tecnologia, em Desenvolvimento de Sistemas para Internet e MBA em Gerencia e Projetos e Governança em TI. Atuou como desenvolvedor Mobile na Marknet e Magaleios. Atualmente é coordenador e professor no IFMS de Naviraí e professor de Pós-Graduação na FAU.
 
 ## Andre Lins
