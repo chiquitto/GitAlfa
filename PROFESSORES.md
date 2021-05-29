@@ -5,6 +5,7 @@
 Mestre em Ciência da Computação pela UEM. Possui especializações em Docência na Tecnologia, em Desenvolvimento de Sistemas para Internet e MBA em Gerencia e Projetos e Governança em TI. Atuou como desenvolvedor Mobile na Marknet e Magaleios. Atualmente é coordenador e professor no IFMS de Naviraí e professor de Pós-Graduação na FAU.
 
 ## Andre Lins
+<img src="https://webdev.alfaumuarama.edu.br/arquivos/1621856394g.jpg" width="100">
 Cientista da Computação e Pós-Graduado em Engenharia de Software, atua como Senior Front-end Engineer na XP Inc.
 
 Ama programar e faz isso o máximo de tempo possível, focando principalmente em Arquitetura Front-end e WebScraping.
